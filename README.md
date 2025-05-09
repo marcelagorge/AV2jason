@@ -27,7 +27,7 @@ Projeto simples em PHP que permite o cadastro e exibição de produtos relaciona
 1. Importe o arquivo `estoque.sql` no phpMyAdmin para criar o banco de dados.
 2. Altere os dados de conexão em `conexao.php`, se necessário.
 3. Coloque os arquivos em uma pasta dentro do seu servidor local (ex: `htdocs` no XAMPP).
-4. Acesse `http://localhost/nome-da-pasta/index.php` no navegador.
+4. Acesse `http://localhost/rock/index.php` no navegador.
 
 ## Requisitos
 - Servidor local com suporte a PHP (ex: XAMPP, WampServer)
